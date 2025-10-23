@@ -6,11 +6,6 @@
 
 Web3Auth Single Factor Auth is the SDK that gives you the ability to start with just one key (aka, Single Factor) with Web3Auth, giving you the flexibility of implementing your own UI and UX.
 
-## 📖 Documentation
-
-Checkout the official [Web3Auth Documentation](https://web3auth.io/docs/sdk/web/core/) to get started.
-
-
 ## Features
 - Multi network support
 - All API's return `CompletableFutures`
