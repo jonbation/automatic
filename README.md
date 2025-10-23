@@ -14,7 +14,7 @@ Web3Auth Single Factor Auth is the SDK that gives you the ability to start with 
 ## Getting Started
 
 Typically your application should depend on release versions of fetch-node-details, but you may also use snapshot dependencies for early access to features and fixes, refer to the Snapshot Dependencies section.
-This project uses [jitpack](https://jitpack.io/docs/) for release management
+
 
 Add the relevant dependency to your project:
 
